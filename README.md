@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="150" src="https://c4.wallpaperflare.com/wallpaper/886/929/249/neon-welcome-neon-hd-wallpaper-preview.jpg"  />
-</div>
+
 
 ###
 
