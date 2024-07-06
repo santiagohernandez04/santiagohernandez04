@@ -32,12 +32,13 @@
 ###
 <h3 align="left">Algunos de mis proyectos</h3>
 
-<ul>
-  <li><a href="https://github.com/santiagohernandez04/viajes-Roxana">Viajes Roxana</a></li>
-  <li><a href="https://github.com/santiagohernandez04/Dashboard_ICFES">Dashboard ICFES</a></li>
-  <li><a href="https://github.com/Alexvarela010/Librerias-pi">Librería JNI sobre el algoritmo JSF (Shortest Job First)</a></li>
-  <li><a href="https://github.com/Alexvarela010/Metodo-Julio-Cesar">Cifrado Cesar</a></li>
+<ul style="list-style-type: none;">
+  <li><a href="https://github.com/santiagohernandez04/viajes-Roxana" style="text-decoration: none;">Viajes Roxana (Framework: Java Server Faces)</a></li>
+  <li><a href="https://github.com/santiagohernandez04/Dashboard_ICFES" style="text-decoration: none;">Dashboard ICFES (Java)</a></li>
+  <li><a href="https://github.com/Alexvarela010/Librerias-pi" style="text-decoration: none;">Librería JNI sobre el algoritmo JSF (Shortest Job First)</a></li>
+  <li><a href="https://github.com/Alexvarela010/Metodo-Julio-Cesar" style="text-decoration: none;">Cifrado Cesar (JavaScript)</a></li>
 </ul>
+
 
 ****
 
