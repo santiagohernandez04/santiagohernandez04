@@ -30,6 +30,16 @@
 <p align="left">Soy estudiante de Ingeniería de Sistemas con una sólida formación en desarrollo de software. Mi principal área de especialización es Java, con un enfoque particular en los frameworks JSF (Java Server Faces) y Spring Boot. En el ámbito del frontend, tengo experiencia trabajando con Angular, lo que me permite crear interfaces de usuario dinámicas y responsivas.<br><br>Además, poseo conocimientos en gestión de bases de datos, específicamente en PostgreSQL. También manejo Docker para el despliegue de aplicaciones y Git para el control de versiones, asegurando así la eficiencia y la integridad en el desarrollo y la implementación de proyectos. Para el diseño de interfaces de usuario, utilizo Figma, lo que me permite crear prototipos interactivos y atractivos.<br><br>He trabajado bajo la metodología ágil Scrum, utilizando herramientas como Slack para la comunicación efectiva y Jira para la gestión del trabajo en cada sprint. Mi enfoque se centra en el desarrollo de soluciones innovadoras y eficientes, siempre buscando mejorar mis habilidades y conocimientos para aportar valor en cada proyecto en el que participo.</p>
 
 ###
+<h3 align="left">Algunos de mis proyectos</h3>
+
+<ul>
+  <li><a href="https://github.com/santiagohernandez04/viajes-Roxana">Viajes Roxana</a></li>
+  <li><a href="https://github.com/santiagohernandez04/Dashboard_ICFES">Dashboard ICFES</a></li>
+  <li><a href="https://github.com/Alexvarela010/Librerias-pi">Librería JNI sobre el algoritmo JSF (Shortest Job First)</a></li>
+  <li><a href="https://github.com/Alexvarela010/Metodo-Julio-Cesar">Cifrado Cesar</a></li>
+</ul>
+
+****
 
 <h3 align="left">🛠 Lenguajes y herramientas</h3>
 
