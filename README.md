@@ -27,7 +27,11 @@
 
 ###
 
-<p align="left">Soy estudiante de Ingeniería de Sistemas con una solida formacion en desarrollo de software. Me destaco en Java, particularmente con JSF y Spring Boot. En frontend, tengo experiencia con Angular, creando interfaces de usuario dinámicas y responsivas. Manejo PostgreSQL para bases de datos, Docker para despliegue de aplicaciones y Git para control de versiones. Utilizo Figma para diseño de interfaces y he trabajado con la metodología ágil Scrum, empleando Slack y Jira para comunicación y gestión de proyectos. Me enfoco en desarrollar soluciones innovadoras y eficientes, siempre buscando mejorar y aportar valor en cada proyecto.</p>
+<p align="left">Soy estudiante de Ingeniería de Sistemas con una sólida formación en desarrollo de software. Mi principal área de especialización es Java, con un enfoque particular en los frameworks JSF (Java Server Faces) y Spring Boot. En el ámbito del frontend, tengo experiencia trabajando con Angular, lo que me permite crear interfaces de usuario dinámicas y responsivas.
+
+Además, poseo conocimientos en gestión de bases de datos, específicamente en PostgreSQL. También manejo Docker para el despliegue de aplicaciones y Git para el control de versiones, asegurando así la eficiencia y la integridad en el desarrollo y la implementación de proyectos. Para el diseño de interfaces de usuario, utilizo Figma, lo que me permite crear prototipos interactivos y atractivos.
+
+He trabajado bajo la metodología ágil Scrum, utilizando herramientas como Slack para la comunicación efectiva y Jira para la gestión del trabajo en cada sprint. Mi enfoque se centra en el desarrollo de soluciones innovadoras y eficientes, siempre buscando mejorar mis habilidades y conocimientos para aportar valor en cada proyecto en el que participo.</p>
 
 ###
 <h3 align="left">Algunos de mis proyectos</h3>
