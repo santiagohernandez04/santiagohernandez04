@@ -38,6 +38,7 @@ He trabajado bajo la metodología ágil Scrum, utilizando herramientas como Slac
 
 <ul style="list-style-type: none;">
   <li><a href="https://github.com/santiagohernandez04/viajes-Roxana" style="text-decoration: none;">Viajes Roxana (Framework: Java Server Faces)</a></li>
+  <li><a href="https://github.com/santiagohernandez04/journal-app" style="text-decoration: none;">Journal App (Framework: React)</a></li>
   <li><a href="https://github.com/santiagohernandez04/Dashboard_ICFES" style="text-decoration: none;">Dashboard ICFES (Java)</a></li>
   <li><a href="https://github.com/santiagohernandez04/heroes-spa" style="text-decoration: none;">Heroes-spa (React)</a></li>
   <li><a href="https://github.com/santiagohernandez04/GifExpertApp" style="text-decoration: none;">GifExpertApp (React)</a></li>
