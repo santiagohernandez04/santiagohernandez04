@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">Soy estudiante de Ingeniería de Sistemas con una sólida formación en desarrollo de software. Mi principal área de especialización es Java, con un enfoque particular en los frameworks JSF (Java Server Faces) y Spring Boot. En el ámbito del frontend, tengo experiencia trabajando con Angular, lo que me permite crear interfaces de usuario dinámicas y responsivas.
+<p align="left">Soy estudiante de Ingeniería de Sistemas con una sólida formación en desarrollo de software, destacándome en React y tecnologías relacionadas como Redux, Context API y pruebas avanzadas. Mi principal área de especialización es Java, con un enfoque particular en los frameworks JSF (Java Server Faces) y Spring Boot. En el ámbito del frontend, tengo experiencia trabajando con Angular y React, lo que me permite crear interfaces de usuario dinámicas y responsivas. Mis habilidades avanzadas incluyen el uso de Hooks, pruebas unitarias y despliegue de aplicaciones.
 
 Además, poseo conocimientos en gestión de bases de datos, específicamente en PostgreSQL. También manejo Docker para el despliegue de aplicaciones y Git para el control de versiones, asegurando así la eficiencia y la integridad en el desarrollo y la implementación de proyectos. Para el diseño de interfaces de usuario, utilizo Figma, lo que me permite crear prototipos interactivos y atractivos.
 
